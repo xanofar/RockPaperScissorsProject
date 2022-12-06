@@ -2,6 +2,6 @@
 Rock Paper Scissors group project
 
 ## Rules
--Rock defeats Scissors
--Scissors defeats Paper
--Paper defeats Rock
+* Rock defeats Scissors
+* Scissors defeats Paper
+* Paper defeats Rock
